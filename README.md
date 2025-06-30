@@ -23,7 +23,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 ---
 
 ## 📁 Project Structure
-
+```
 internship-daily-log/
 │
 ├── notebooks/             # Daily Jupyter Notebooks
@@ -34,7 +34,7 @@ internship-daily-log/
 ├── README.md              # Repository overview and daily log (this file)
 ├── .gitignore             # Files and folders to exclude from version control
 └── LICENSE                # License (MIT)
-
+```
 ---
 
 ## 📄 License
@@ -45,5 +45,5 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-**Your Name**  
+**Arya Desai**  
 [LinkedIn](https://www.linkedin.com/in/arya-desai-709a90250/) • [GitHub](https://github.com/AryaDesai241104) • [Email](mailto:aryadesai206@gmail.com)
