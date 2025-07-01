@@ -8,7 +8,8 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 
 | Day | Date       | Topic                                      | Notebook Link                             |
 |-----|------------|--------------------------------------------|--------------------------------------------|
-| 01  | 2025-07-01 | Object-Oriented Programming in Python      | [View Notebook](notebooks/day01.ipynb)     |
+| 01  | 2025-06-30 | Object-Oriented Programming in Python      | [View Notebook](notebooks/day01.ipynb)     |
+| 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands            | [View Notebook](notebooks/day02.ipynb)     |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
