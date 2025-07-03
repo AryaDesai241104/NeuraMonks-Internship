@@ -6,11 +6,12 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 
 ## 🗓️ Daily Progress Tracker
 
-| Day | Date       | Topic                                      | Notebook Link                              |
-|-----|------------|--------------------------------------------|--------------------------------------------|
-| 01  | 2025-06-30 | Object-Oriented Programming in Python      | [View Notebook](notebooks/day01.ipynb)     |
-| 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands            | [View Notebook](notebooks/day02.ipynb)     |
-| 03  | 2025-07-02 | Pandas Basics                              | [View Notebook](notebooks/day03.ipynb)     |
+| Day | Date       | Topic                                 | Notebook Link                          |
+| --- | ---------- | ------------------------------------- | -------------------------------------- |
+| 01  | 2025-06-30 | Object-Oriented Programming in Python | [View Notebook](notebooks/day01.ipynb) |
+| 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands       | [View Notebook](notebooks/day02.ipynb) |
+| 03  | 2025-07-02 | Pandas Basics                         | [View Notebook](notebooks/day03.ipynb) |
+| 04  | 2025-07-03 | Numpy Basics                          | [View Notebook](notebooks/day04.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
@@ -25,6 +26,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 ---
 
 ## 📁 Project Structure
+
 ```
 internship-daily-log/
 │
@@ -37,6 +39,7 @@ internship-daily-log/
 ├── .gitignore             # Files and folders to exclude from version control
 └── LICENSE                # License (MIT)
 ```
+
 ---
 
 ## 📄 License
