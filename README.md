@@ -11,7 +11,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 01  | 2025-06-30 | Object-Oriented Programming in Python      | [View Notebook](notebooks/day01.ipynb)     |
 | 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands            | [View Notebook](notebooks/day02.ipynb)     |
 | 03  | 2025-07-02 | Pandas Basics                              | [View Notebook](notebooks/day03.ipynb)     |
-| 03  | 2025-07-02 | Numpy Basics                               | [View Notebook](notebooks/day04.ipynb)     |
+| 04  | 2025-07-02 | Numpy Basics                               | [View Notebook](notebooks/day04.ipynb)     |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
