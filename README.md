@@ -13,6 +13,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 03  | 2025-07-02 | Pandas Basics                         | [View Notebook](notebooks/day03.ipynb) |
 | 04  | 2025-07-03 | Numpy Basics                          | [View Notebook](notebooks/day04.ipynb) |
 | 05  | 2025-07-04 | Matplotlib Basics                     | [View Notebook](notebooks/day05.ipynb) |
+| 06  | 2025-07-07 | Data Preprocessing                    | [View Notebook](notebooks/day06.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
