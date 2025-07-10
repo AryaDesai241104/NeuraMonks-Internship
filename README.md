@@ -15,7 +15,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 05  | 2025-07-04  | Matplotlib Basics                     | [View Notebook](notebooks/day05.ipynb) |
 | 06  | 2025-07-07  | Data Preprocessing                    | [View Notebook](notebooks/day06.ipynb) |
 | 07  | 2025-07-08  | Simple Linear Regression              | [View Notebook](notebooks/day07.ipynb) |
-| 08  | 2025-07-08  | Multiple Linear Regression            | [View Notebook](notebooks/day08.ipynb) |
+| 08  | 2025-07-09  | Multiple Linear Regression            | [View Notebook](notebooks/day08.ipynb) |
 | 09  | 2025-07-010 | Polynomial Linear Regression          | [View Notebook](notebooks/day09.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
