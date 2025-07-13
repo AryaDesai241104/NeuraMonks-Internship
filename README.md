@@ -18,6 +18,8 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 08  | 2025-07-09 | Multiple Linear Regression            | [View Notebook](notebooks/day08.ipynb) |
 | 09  | 2025-07-10 | Polynomial Linear Regression          | [View Notebook](notebooks/day09.ipynb) |
 | 10  | 2025-07-11 | Support Vector Regression             | [View Notebook](notebooks/day10.ipynb) |
+| 11  | 2025-08-11 | Ridge(l2) & Lasso(l1) Regression      | [View Notebook](notebooks/day11.ipynb) |
+| 12  | 2025-09-11 | Decision Tree Regression              | [View Notebook](notebooks/day12.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
