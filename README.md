@@ -20,6 +20,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 10  | 2025-07-11 | Support Vector Regression             | [View Notebook](notebooks/day10.ipynb) |
 | 11  | 2025-07-12 | Ridge(l2) & Lasso(l1) Regression      | [View Notebook](notebooks/day11.ipynb) |
 | 12  | 2025-07-13 | Decision Tree Regression              | [View Notebook](notebooks/day12.ipynb) |
+| 13  | 2025-07-14 | Random Forest Regression              | [View Notebook](notebooks/day13.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
