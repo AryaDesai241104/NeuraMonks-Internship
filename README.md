@@ -21,6 +21,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 11  | 2025-07-12 | Ridge(l2) & Lasso(l1) Regression      | [View Notebook](notebooks/day11.ipynb) |
 | 12  | 2025-07-13 | Decision Tree Regression              | [View Notebook](notebooks/day12.ipynb) |
 | 13  | 2025-07-14 | Random Forest Regression              | [View Notebook](notebooks/day13.ipynb) |
+| 14  | 2025-07-15 | Accuracy Measures for all Regression  | [View Notebook](notebooks/day14)       |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
