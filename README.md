@@ -25,6 +25,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 15  | 2025-07-16 | Logistic Regression (classification)  | [View Notebook](notebooks/day15.ipynb) |
 | 16  | 2025-07-17 | K-Nearest Neighbour classification    | [View Notebook](notebooks/day16.ipynb) |
 | 17  | 2025-07-18 | Support Vector classification         | [View Notebook](notebooks/day17.ipynb) |
+| 18  | 2025-07-19 | Naive Bayes classification            | [View Notebook](notebooks/day18.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
