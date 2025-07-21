@@ -27,6 +27,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 17  | 2025-07-18 | Support Vector classification         | [View Notebook](notebooks/day17.ipynb) |
 | 18  | 2025-07-19 | Naive Bayes classification            | [View Notebook](notebooks/day18.ipynb) |
 | 19  | 2025-07-20 | Decision Tree classification          | [View Notebook](notebooks/day19.ipynb) |
+| 20  | 2025-07-21 | Random Forest classification          | [View Notebook](notebooks/day20.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
