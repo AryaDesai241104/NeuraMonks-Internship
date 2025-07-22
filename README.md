@@ -6,28 +6,29 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 
 ## 🗓️ Daily Progress Tracker
 
-| Day | Date       | Topic                                 | Notebook Link                          |
-| --- | ---------- | ------------------------------------- | -------------------------------------- |
-| 01  | 2025-06-30 | Object-Oriented Programming in Python | [View Notebook](notebooks/day01.ipynb) |
-| 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands       | [View Notebook](notebooks/day02.ipynb) |
-| 03  | 2025-07-02 | Pandas Basics                         | [View Notebook](notebooks/day03.ipynb) |
-| 04  | 2025-07-03 | Numpy Basics                          | [View Notebook](notebooks/day04.ipynb) |
-| 05  | 2025-07-04 | Matplotlib Basics                     | [View Notebook](notebooks/day05.ipynb) |
-| 06  | 2025-07-07 | Data Preprocessing                    | [View Notebook](notebooks/day06.ipynb) |
-| 07  | 2025-07-08 | Simple Linear Regression              | [View Notebook](notebooks/day07.ipynb) |
-| 08  | 2025-07-09 | Multiple Linear Regression            | [View Notebook](notebooks/day08.ipynb) |
-| 09  | 2025-07-10 | Polynomial Linear Regression          | [View Notebook](notebooks/day09.ipynb) |
-| 10  | 2025-07-11 | Support Vector Regression             | [View Notebook](notebooks/day10.ipynb) |
-| 11  | 2025-07-12 | Ridge(l2) & Lasso(l1) Regression      | [View Notebook](notebooks/day11.ipynb) |
-| 12  | 2025-07-13 | Decision Tree Regression              | [View Notebook](notebooks/day12.ipynb) |
-| 13  | 2025-07-14 | Random Forest Regression              | [View Notebook](notebooks/day13.ipynb) |
-| 14  | 2025-07-15 | Accuracy Measures for all Regression  | [View Notebook](notebooks/day14)       |
-| 15  | 2025-07-16 | Logistic Regression (classification)  | [View Notebook](notebooks/day15.ipynb) |
-| 16  | 2025-07-17 | K-Nearest Neighbour classification    | [View Notebook](notebooks/day16.ipynb) |
-| 17  | 2025-07-18 | Support Vector classification         | [View Notebook](notebooks/day17.ipynb) |
-| 18  | 2025-07-19 | Naive Bayes classification            | [View Notebook](notebooks/day18.ipynb) |
-| 19  | 2025-07-20 | Decision Tree classification          | [View Notebook](notebooks/day19.ipynb) |
-| 20  | 2025-07-21 | Random Forest classification          | [View Notebook](notebooks/day20.ipynb) |
+| Day | Date       | Topic                                    | Notebook Link                          |
+| --- | ---------- | ---------------------------------------- | -------------------------------------- |
+| 01  | 2025-06-30 | Object-Oriented Programming in Python    | [View Notebook](notebooks/day01.ipynb) |
+| 02  | 2025-07-01 | GIT, LINUX, VENV Basic Commands          | [View Notebook](notebooks/day02.ipynb) |
+| 03  | 2025-07-02 | Pandas Basics                            | [View Notebook](notebooks/day03.ipynb) |
+| 04  | 2025-07-03 | Numpy Basics                             | [View Notebook](notebooks/day04.ipynb) |
+| 05  | 2025-07-04 | Matplotlib Basics                        | [View Notebook](notebooks/day05.ipynb) |
+| 06  | 2025-07-07 | Data Preprocessing                       | [View Notebook](notebooks/day06.ipynb) |
+| 07  | 2025-07-08 | Simple Linear Regression                 | [View Notebook](notebooks/day07.ipynb) |
+| 08  | 2025-07-09 | Multiple Linear Regression               | [View Notebook](notebooks/day08.ipynb) |
+| 09  | 2025-07-10 | Polynomial Linear Regression             | [View Notebook](notebooks/day09.ipynb) |
+| 10  | 2025-07-11 | Support Vector Regression                | [View Notebook](notebooks/day10.ipynb) |
+| 11  | 2025-07-12 | Ridge(l2) & Lasso(l1) Regression         | [View Notebook](notebooks/day11.ipynb) |
+| 12  | 2025-07-13 | Decision Tree Regression                 | [View Notebook](notebooks/day12.ipynb) |
+| 13  | 2025-07-14 | Random Forest Regression                 | [View Notebook](notebooks/day13.ipynb) |
+| 14  | 2025-07-15 | Accuracy Measures for all Regression     | [View Notebook](notebooks/day14)       |
+| 15  | 2025-07-16 | Logistic Regression (classification)     | [View Notebook](notebooks/day15.ipynb) |
+| 16  | 2025-07-17 | K-Nearest Neighbour classification       | [View Notebook](notebooks/day16.ipynb) |
+| 17  | 2025-07-18 | Support Vector classification            | [View Notebook](notebooks/day17.ipynb) |
+| 18  | 2025-07-19 | Naive Bayes classification               | [View Notebook](notebooks/day18.ipynb) |
+| 19  | 2025-07-20 | Decision Tree classification             | [View Notebook](notebooks/day19.ipynb) |
+| 20  | 2025-07-21 | Random Forest classification             | [View Notebook](notebooks/day20.ipynb) |
+| 21  | 2025-07-22 | Accuracy Measures for all Classification | [View Notebook](notebooks/day21)       |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
