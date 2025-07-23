@@ -39,7 +39,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 
 - **Language:** Python
 - **Tools:** Jupyter Notebook, Git & GitHub
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and more
+- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Tensorflow, OpenCV
 
 ---
 
