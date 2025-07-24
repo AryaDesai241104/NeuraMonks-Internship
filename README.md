@@ -29,7 +29,8 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 19  | 2025-07-20 | Decision Tree classification             | [View Notebook](notebooks/day19.ipynb) |
 | 20  | 2025-07-21 | Random Forest classification             | [View Notebook](notebooks/day20.ipynb) |
 | 21  | 2025-07-22 | Accuracy Measures for all Classification | [View Notebook](notebooks/day21)       |
-| 22  | 2025-07-23 | Clustering - Non Supervised Model        | [View Notebook](notebooks/day22.ipynb) |
+| 22  | 2025-07-23 | Clustering - UnSupervised Model          | [View Notebook](notebooks/day22.ipynb) |
+| 23  | 2025-07-24 | Associate Rule Learning Part - 1         | [View Notebook](notebooks/day23.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
