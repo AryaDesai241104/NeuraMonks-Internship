@@ -31,6 +31,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 21  | 2025-07-22 | Accuracy Measures for all Classification | [View Notebook](notebooks/day21)       |
 | 22  | 2025-07-23 | Clustering - UnSupervised Model          | [View Notebook](notebooks/day22.ipynb) |
 | 23  | 2025-07-24 | Associate Rule Learning Part - 1         | [View Notebook](notebooks/day23.ipynb) |
+| 24  | 2025-07-25 | Dimensionality Reduction                 | [View Notebook](notebooks/day24)       |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
