@@ -35,6 +35,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 25  | 2025-07-25 | Cross Validation, Bagging, Boosting      | [View Notebook](notebooks/day25)       |
 | 26  | 2025-07-26 | Artificial Neural Network (ANN)          | [View Notebook](notebooks/day26.ipynb) |
 | 27  | 2025-07-27 | Convolution Neural Network (CNN)         | [View Notebook](notebooks/day27.ipynb) |
+| 28  | 2025-07-28 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
