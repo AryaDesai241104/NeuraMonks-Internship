@@ -32,10 +32,11 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 22  | 2025-07-23 | Clustering - UnSupervised Model          | [View Notebook](notebooks/day22.ipynb) |
 | 23  | 2025-07-24 | Associate Rule Learning Part - 1         | [View Notebook](notebooks/day23.ipynb) |
 | 24  | 2025-07-25 | Dimensionality Reduction                 | [View Notebook](notebooks/day24)       |
-| 25  | 2025-07-25 | Cross Validation, Bagging, Boosting      | [View Notebook](notebooks/day25)       |
-| 26  | 2025-07-26 | Artificial Neural Network (ANN)          | [View Notebook](notebooks/day26.ipynb) |
-| 27  | 2025-07-27 | Convolution Neural Network (CNN)         | [View Notebook](notebooks/day27.ipynb) |
-| 28  | 2025-07-28 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
+| 25  | 2025-07-26 | Cross Validation, Bagging, Boosting      | [View Notebook](notebooks/day25)       |
+| 26  | 2025-07-29 | Artificial Neural Network (ANN)          | [View Notebook](notebooks/day26.ipynb) |
+| 27  | 2025-07-30 | Convolution Neural Network (CNN)         | [View Notebook](notebooks/day27.ipynb) |
+| 28  | 2025-07-31 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
+| 29  | 2025-08-01 | OpenCV Introduction                      | [View Notebook](notebooks/day29.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
