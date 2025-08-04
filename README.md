@@ -18,25 +18,26 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 08  | 2025-07-09 | Multiple Linear Regression               | [View Notebook](notebooks/day08.ipynb) |
 | 09  | 2025-07-10 | Polynomial Linear Regression             | [View Notebook](notebooks/day09.ipynb) |
 | 10  | 2025-07-11 | Support Vector Regression                | [View Notebook](notebooks/day10.ipynb) |
-| 11  | 2025-07-12 | Ridge(l2) & Lasso(l1) Regression         | [View Notebook](notebooks/day11.ipynb) |
-| 12  | 2025-07-13 | Decision Tree Regression                 | [View Notebook](notebooks/day12.ipynb) |
-| 13  | 2025-07-14 | Random Forest Regression                 | [View Notebook](notebooks/day13.ipynb) |
-| 14  | 2025-07-15 | Accuracy Measures for all Regression     | [View Notebook](notebooks/day14)       |
-| 15  | 2025-07-16 | Logistic Regression (classification)     | [View Notebook](notebooks/day15.ipynb) |
-| 16  | 2025-07-17 | K-Nearest Neighbour classification       | [View Notebook](notebooks/day16.ipynb) |
-| 17  | 2025-07-18 | Support Vector classification            | [View Notebook](notebooks/day17.ipynb) |
-| 18  | 2025-07-19 | Naive Bayes classification               | [View Notebook](notebooks/day18.ipynb) |
-| 19  | 2025-07-20 | Decision Tree classification             | [View Notebook](notebooks/day19.ipynb) |
-| 20  | 2025-07-21 | Random Forest classification             | [View Notebook](notebooks/day20.ipynb) |
-| 21  | 2025-07-22 | Accuracy Measures for all Classification | [View Notebook](notebooks/day21)       |
-| 22  | 2025-07-23 | Clustering - UnSupervised Model          | [View Notebook](notebooks/day22.ipynb) |
-| 23  | 2025-07-24 | Associate Rule Learning Part - 1         | [View Notebook](notebooks/day23.ipynb) |
-| 24  | 2025-07-25 | Dimensionality Reduction                 | [View Notebook](notebooks/day24)       |
-| 25  | 2025-07-26 | Cross Validation, Bagging, Boosting      | [View Notebook](notebooks/day25)       |
-| 26  | 2025-07-29 | Artificial Neural Network (ANN)          | [View Notebook](notebooks/day26.ipynb) |
-| 27  | 2025-07-30 | Convolution Neural Network (CNN)         | [View Notebook](notebooks/day27.ipynb) |
-| 28  | 2025-07-31 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
-| 29  | 2025-08-01 | OpenCV Introduction                      | [View Notebook](notebooks/day29.ipynb) |
+| 11  | 2025-07-14 | Ridge(l2) & Lasso(l1) Regression         | [View Notebook](notebooks/day11.ipynb) |
+| 12  | 2025-07-15 | Decision Tree Regression                 | [View Notebook](notebooks/day12.ipynb) |
+| 13  | 2025-07-16 | Random Forest Regression                 | [View Notebook](notebooks/day13.ipynb) |
+| 14  | 2025-07-17 | Accuracy Measures for all Regression     | [View Notebook](notebooks/day14)       |
+| 15  | 2025-07-18 | Logistic Regression (classification)     | [View Notebook](notebooks/day15.ipynb) |
+| 16  | 2025-07-21 | K-Nearest Neighbour classification       | [View Notebook](notebooks/day16.ipynb) |
+| 17  | 2025-07-22 | Support Vector classification            | [View Notebook](notebooks/day17.ipynb) |
+| 18  | 2025-07-23 | Naive Bayes classification               | [View Notebook](notebooks/day18.ipynb) |
+| 19  | 2025-07-24 | Decision Tree classification             | [View Notebook](notebooks/day19.ipynb) |
+| 20  | 2025-07-25 | Random Forest classification             | [View Notebook](notebooks/day20.ipynb) |
+| 21  | 2025-07-28 | Accuracy Measures for all Classification | [View Notebook](notebooks/day21)       |
+| 22  | 2025-07-29 | Clustering - UnSupervised Model          | [View Notebook](notebooks/day22.ipynb) |
+| 23  | 2025-07-30 | Associate Rule Learning Part - 1         | [View Notebook](notebooks/day23.ipynb) |
+| 24  | 2025-07-31 | Dimensionality Reduction                 | [View Notebook](notebooks/day24)       |
+| 25  | 2025-08-01 | Cross Validation, Bagging, Boosting      | [View Notebook](notebooks/day25)       |
+| 26  | 2025-08-04 | Artificial Neural Network (ANN)          | [View Notebook](notebooks/day26.ipynb) |
+| 27  | 2025-08-05 | Convolution Neural Network (CNN)         | [View Notebook](notebooks/day27.ipynb) |
+| 28  | 2025-08-06 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
+| 29  | 2025-08-07 | OpenCV Introduction                      | [View Notebook](notebooks/day29.ipynb) |
+| 30  | 2025-08-08 | OpenCV Important Operations              | [View Notebook](notebooks/day30.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
@@ -62,7 +63,9 @@ internship-daily-log/
 ├── assets/                # Visuals or supporting files (optional)
 ├── README.md              # Repository overview and daily log (this file)
 ├── .gitignore             # Files and folders to exclude from version control
-└── LICENSE                # License (MIT)
+├── LICENSE                # License (MIT)
+└── requirements.txt       # Contians all the requirements for succesfull run
+
 ```
 
 ---
