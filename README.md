@@ -38,7 +38,8 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 28  | 2025-08-06 | Recurrent Neurak Network (RNN)           | [View Notebook](notebooks/day28.ipynb) |
 | 29  | 2025-08-07 | OpenCV Introduction                      | [View Notebook](notebooks/day29.ipynb) |
 | 30  | 2025-08-08 | OpenCV Important Operations              | [View Notebook](notebooks/day30.ipynb) |
-| 31  | 2025-08-11 | OpenCV Face Detection and Recognition    | [View Notebook](notebooks/day31.ipynb) |
+| 31  | 2025-08-11 | OpenCV Face Detection and Recognition    | [View Notebook](notebooks/day31)       |
+| 32  | 2025-08-12 | Journey of Transformer                   | [View Notebook](notebooks/day32.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
