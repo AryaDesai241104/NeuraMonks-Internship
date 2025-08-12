@@ -7,7 +7,7 @@ from langchain_core.prompts import PromptTemplate, load_prompt
 load_dotenv()
 api_key = os.getenv('GEMINI_API_KEY')
 
-model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=api_key, temperature = 0)
+model = ChatGoogleGenerativeAI(model="gemini-1.5-flash", google_api_key=api_key, temperature = 0.5)
 
 st.header('Research Assistant')
 
