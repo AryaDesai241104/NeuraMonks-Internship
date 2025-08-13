@@ -44,6 +44,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 34  | 2025-08-14 | Langchain : LLM, Chat & Embedding Model                   | [View Notebook](notebooks/day34)       |
 | 35  | 2025-08-18 | Langchain : Prompt templates & Message Placeholder Basics | [View Notebook](notebooks/day35)       |
 | 36  | 2025-08-19 | Langchain : Structured Output & Output Parsers            | [View Notebook](notebooks/day36)       |
+| 37  | 2025-08-20 | Langchain : Chains & Runnables                            | [View Notebook](notebooks/day37)       |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
