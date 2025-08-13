@@ -77,6 +77,17 @@ internship-daily-log/
 
 ---
 
+## 🙏 Special Thanks
+
+A huge thank you to all the open-source communities and educational platforms that have shaped my learning. In particular:
+
+- [GeeksforGeeks](https://www.geeksforgeeks.org/) for their comprehensive articles and coding resources.
+- [CampusX YouTube Channel](https://www.youtube.com/@CampusXOfficial) for their practical, beginner-friendly video tutorials.
+
+Your content has played a pivotal role in clarifying concepts and accelerating my progress.
+
+---
+
 ## 📄 License
 
 This repository is licensed under the [MIT License](LICENSE).
@@ -87,3 +98,7 @@ This repository is licensed under the [MIT License](LICENSE).
 
 **Arya Desai**  
 [LinkedIn](https://www.linkedin.com/in/arya-desai-709a90250/) • [GitHub](https://github.com/AryaDesai241104) • [Email](mailto:aryadesai206@gmail.com)
+
+---
+
+> _If you have suggestions for resources, formatting, or improvements to this logbook, feel free to open an issue or pull request! Collaboration is always welcome._
