@@ -46,7 +46,8 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 36  | 2025-08-19 | Langchain : Structured Output & Output Parsers            | [View Notebook](notebooks/day36)       |
 | 37  | 2025-08-20 | Langchain : Chains & Runnables                            | [View Notebook](notebooks/day37)       |
 | 38  | 2025-08-21 | Langchain : Document Loaders                              | [View Notebook](notebooks/day38)       |
-| 39  | 2025-08-22 | Langchain : Text Splitters                                | [View Notebook](notebooks/day38)       |
+| 39  | 2025-08-22 | Langchain : Text Splitters                                | [View Notebook](notebooks/day39)       |
+| 40  | 2025-08-25 | Langchain : Vector Stores                                 | [View Notebook](notebooks/day40.ipynb) |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
