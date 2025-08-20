@@ -49,6 +49,7 @@ Welcome to my internship logbook! This repository serves as a daily record of my
 | 39  | 2025-08-22 | Langchain : Text Splitters                                | [View Notebook](notebooks/day39)       |
 | 40  | 2025-08-25 | Langchain : Vector Stores                                 | [View Notebook](notebooks/day40.ipynb) |
 | 41  | 2025-08-26 | Langchain : Retrievers & RAG                              | [View Notebook](notebooks/day41)       |
+| 42  | 2025-08-27 | Langchain : Tools, Tool Calling & Agents                  | [View Notebook](notebooks/day41)       |
 
 > 🟢 This table will be updated daily to reflect the latest additions and topics covered.
 
